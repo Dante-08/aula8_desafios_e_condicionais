@@ -36,7 +36,6 @@ Selecione o numero respectivo ao produto desejado
         elif p2 == 2:
             carrinho.append('Palha Italiana')
             valor_total.append(5.75)
-    if carrinho == carrinho:
         print(f'''
 *****FINALIZAÇÃO DA COMPRA*****
 
